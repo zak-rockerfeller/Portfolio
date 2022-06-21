@@ -106,7 +106,7 @@ class SideMenu extends StatelessWidget {
     );
   }
   _launchURL() async {
-    const url = 'https://nest-keja.com/portfolio/CV.pdf';
+    const url = 'Enter a link to your resume';
     if (await canLaunch(url)) {
       await launch(url);
     } else {
