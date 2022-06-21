@@ -28,6 +28,4 @@
   <p>Because of the flexibility of an online portfolio, you’re able to show your personality by choosing design, layout and the copy you write.</p>
  
 ![portfolio_github_phone](https://user-images.githubusercontent.com/55271909/174825215-489a4902-d699-4e90-84f0-06d25fdd56dc.png)
-
-
 ![portfolio_phone_github](https://user-images.githubusercontent.com/55271909/174825242-a4df51c1-fa02-4226-a197-3ffd73419ce4.png)
