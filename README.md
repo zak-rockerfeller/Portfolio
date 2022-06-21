@@ -1,5 +1,7 @@
 <h2>ONLINE PORTFOLIO</h2>
-![portfolio_github](https://user-images.githubusercontent.com/55271909/174825159-924158c5-8c7a-42d7-8afa-2bdd3dff16d4.png)
+
+![portfolio_github](https://user-images.githubusercontent.com/55271909/174825474-cea57472-f139-4b68-b866-b8f69f45393a.png)
+
 
 <p>Online portfolios aren’t just for certain fields or industries anymore. The importance of having a professional online presence is 
   more important than ever, and an online portfolio will certainly increase your visibility and presence. Creating your portfolio website 
@@ -26,4 +28,6 @@
   <p>Because of the flexibility of an online portfolio, you’re able to show your personality by choosing design, layout and the copy you write.</p>
  
 ![portfolio_github_phone](https://user-images.githubusercontent.com/55271909/174825215-489a4902-d699-4e90-84f0-06d25fdd56dc.png)
+
+
 ![portfolio_phone_github](https://user-images.githubusercontent.com/55271909/174825242-a4df51c1-fa02-4226-a197-3ffd73419ce4.png)
