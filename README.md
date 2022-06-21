@@ -7,7 +7,7 @@
   more important than ever, and an online portfolio will certainly increase your visibility and presence. Creating your portfolio website 
   allows you to share and showcase your work easily with the employers you’d like to work for.</p>
   
-  <h4>Why should I create my own online portfolio?</h4>
+  <h4>Why should you create your own online portfolio?</h4>
   
   <h5>1. Professional way to showcase your work.</h5>
   <p>Building a website about your brand and experience is a polished way to share your expertise with others. 
