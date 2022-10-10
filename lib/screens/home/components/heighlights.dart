@@ -29,7 +29,7 @@ class HighLightsInfo extends StatelessWidget {
                     ),
                     HeightLight(
                       counter: AnimatedCounter(
-                        value: 3,
+                        value: 5,
                         text: "",
                       ),
                       label: "Stars",
@@ -50,7 +50,7 @@ class HighLightsInfo extends StatelessWidget {
                 ),
                 HeightLight(
                   counter: AnimatedCounter(
-                    value: 3,
+                    value: 5,
                     text: "",
                   ),
                   label: "Stars",
